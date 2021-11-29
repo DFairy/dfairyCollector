@@ -1,4 +1,4 @@
-# navigation
+# 积累了将近200多个收藏网址，涉及了前端与设计等
 
 ## Project setup
 ```
@@ -19,6 +19,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
